@@ -1,0 +1,2 @@
+# Book_AlgorythmAndMathmatics
+「アルゴリズムx数学が基礎からしっかり身につく本」問題回答
